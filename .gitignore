@@ -1,0 +1,25 @@
+# Virtual Environment
+
+venv/
+
+# Python Cache
+
+**pycache**/
+*.pyc
+
+# VS Code
+
+.vscode/
+
+# Streamlit
+
+.streamlit/
+
+# OS Files
+
+.DS_Store
+Thumbs.db
+
+# Large generated files (optional)
+
+data/pseudo_labeled_tickets.csv
