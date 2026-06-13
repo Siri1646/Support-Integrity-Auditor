@@ -24,3 +24,7 @@ Thumbs.db
 
 data/pseudo_labeled_tickets.csv
 data/predictions_output.csv
+models/distilbert_sia/
+models/distilbert_sia_weighted/
+models/distilbert_sia_highconf/
+data/high_confidence_tickets.csv
