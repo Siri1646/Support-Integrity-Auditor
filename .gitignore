@@ -28,3 +28,5 @@ models/distilbert_sia/
 models/distilbert_sia_weighted/
 models/distilbert_sia_highconf/
 data/high_confidence_tickets.csv
+models/distilbert_sia_mars/
+models/distilbert_sia_mars_clean/
