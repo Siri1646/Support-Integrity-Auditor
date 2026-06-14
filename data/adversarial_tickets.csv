@@ -3,9 +3,9 @@ Password reset request,Customer requests routine password change,Account,Critica
 Dashboard unavailable,Enterprise dashboard inaccessible during production outage,Technical,Low,Chat,80,1
 Payment inquiry,Customer wants invoice copy,Billing,High,Email,4,5
 Fraud suspected,Unauthorized transactions detected,Fraud,Medium,Chat,72,1
-Feature request,Customer wants dark mode feature,General Inquiry,Critical,Web Form,1,5
+Minor feature request,Customer casually asks whether dark mode can be added someday,General Inquiry,Critical,Web Form,1,5
 Account locked,Executive account inaccessible before launch,Account,Low,Chat,60,1
-Login issue resolved,Customer already solved login problem,Technical,High,Email,2,5
+Resolved login question,Customer says the earlier login issue is already fixed and no action is needed,General Inquiry,High,Email,1,5
 Data sync failure,Transaction records missing across systems,Technical,Low,Chat,96,1
 Billing clarification,Customer wants tax explanation,Billing,Critical,Email,2,5
 Security breach,Multiple suspicious logins detected,Fraud,Medium,Chat,84,1
