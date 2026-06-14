@@ -1,0 +1,11 @@
+Ticket_Subject,Ticket_Description,Issue_Category,Priority_Level,Ticket_Channel,Resolution_Time_Hours,Satisfaction_Score,Combined_Text,Predicted_Label,Predicted_Class,Expected_Label,Correct
+Password reset request,Customer requests routine password change,Account,Critical,Email,2,5,Password reset request Customer requests routine password change,1,Mismatch,1,True
+Dashboard unavailable,Enterprise dashboard inaccessible during production outage,Technical,Low,Chat,80,1,Dashboard unavailable Enterprise dashboard inaccessible during production outage,1,Mismatch,1,True
+Payment inquiry,Customer wants invoice copy,Billing,High,Email,4,5,Payment inquiry Customer wants invoice copy,1,Mismatch,1,True
+Fraud suspected,Unauthorized transactions detected,Fraud,Medium,Chat,72,1,Fraud suspected Unauthorized transactions detected,1,Mismatch,1,True
+Feature request,Customer wants dark mode feature,General Inquiry,Critical,Web Form,1,5,Feature request Customer wants dark mode feature,0,Consistent,1,False
+Account locked,Executive account inaccessible before launch,Account,Low,Chat,60,1,Account locked Executive account inaccessible before launch,1,Mismatch,1,True
+Login issue resolved,Customer already solved login problem,Technical,High,Email,2,5,Login issue resolved Customer already solved login problem,0,Consistent,1,False
+Data sync failure,Transaction records missing across systems,Technical,Low,Chat,96,1,Data sync failure Transaction records missing across systems,1,Mismatch,1,True
+Billing clarification,Customer wants tax explanation,Billing,Critical,Email,2,5,Billing clarification Customer wants tax explanation,1,Mismatch,1,True
+Security breach,Multiple suspicious logins detected,Fraud,Medium,Chat,84,1,Security breach Multiple suspicious logins detected,1,Mismatch,1,True
